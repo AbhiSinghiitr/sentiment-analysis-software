@@ -93,5 +93,5 @@ This website was developed as part of a project for the course CSN254. The pre-t
 - [Shambhoolal Narwaria](https://github.com/narwariasmb)
 - [Alhan Charan Beshra](https://github.com/ezio2605)
 - [Abhishek Raj](https://github.com/Abhi9708bittu)
-- Aryan Batra
+- [Aryan Batra](https://github.com/Batraji7)
 
