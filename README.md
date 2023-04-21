@@ -28,6 +28,12 @@ cd sentiment-analysis-software
 pip install -r requirements.txt
 ```
 
+## Installing other essential libraries
+
+```bash
+python essential.py
+```
+
 ## Usage
 
 To run the website, simply run the app.py file using Python:
