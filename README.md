@@ -18,13 +18,13 @@ This is a simple website that allows users to input either a YouTube video URL o
 To run the website, you will need to have Python 3 installed. You can clone this repository using the following command:
 
 ```bash
-git clone https://github.com/your-username/text-classification-website.git
+git clone https://github.com/AbhiSinghiitr/sentiment-analysis-software.git
 ```
 
 Next, navigate to the cloned directory and install the required Python packages using pip:
 
 ```bash
-cd text-classification-website
+cd sentiment-analysis-software
 pip install -r requirements.txt
 ```
 
