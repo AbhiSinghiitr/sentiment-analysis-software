@@ -96,7 +96,7 @@ This website was developed as part of a project for the course CSN254. The pre-t
 
 - [Sarish Nilakhe](https://github.com/Shinchan9913)
 - [Abhishek Kumar Singh](https://github.com/AbhiSinghiitr)
-- [Shambhoolal Narwaria](https://github.com/narwariasmb)
+- [Shambhoolal Narwaria](https://github.com/mr-narwaria)
 - [Alhan Charan Beshra](https://github.com/ezio2605)
 - [Abhishek Raj](https://github.com/Abhi9708bittu)
 - [Aryan Batra](https://github.com/Batraji7)
